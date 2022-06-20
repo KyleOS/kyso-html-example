@@ -1,0 +1,13 @@
+{
+    "main": "multiqc_report.html",
+    "title": "Quality control of alignment sequencing data (QualiMap)",
+    "organization": "kyle-o-shea",
+    "team": "general",
+    "preview": "preview.png",
+    "tags": [
+      "plotly",
+      "genomics",
+      "rna"
+    ],
+    "type": "website"
+}
